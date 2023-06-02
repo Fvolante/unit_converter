@@ -4,7 +4,7 @@ Simple app to convert metric to imperial unit and vice-versa.
 
 Just type your number in the <input> field and watch conversion for legth, volume and mass
 
-![image](https://github.com/Fvolante/unit_converter/assets/82406872/6b426e73-d779-4b80-85dc-3dbfcf8385bd)
+![image](https://github.com/Fvolante/unit_converter/assets/82406872/78d4b7cd-8c63-4488-907e-3f1ef28a9d4f)
 
 Exercise from [Scrimba](https://scrimba.com/) solo project
 
